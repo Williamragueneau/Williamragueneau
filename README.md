@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Williamragueneau
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in developement
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
